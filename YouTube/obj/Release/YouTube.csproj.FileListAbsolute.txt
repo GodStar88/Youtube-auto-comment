@@ -1,0 +1,13 @@
+C:\Users\C\Desktop\YouTube\YouTube\bin\Release\YouTube.exe.config
+C:\Users\C\Desktop\YouTube\YouTube\bin\Release\YouTube.exe
+C:\Users\C\Desktop\YouTube\YouTube\bin\Release\YouTube.pdb
+C:\Users\C\Desktop\YouTube\YouTube\bin\Release\WebDriver.dll
+C:\Users\C\Desktop\YouTube\YouTube\bin\Release\WebDriver.Support.dll
+C:\Users\C\Desktop\YouTube\YouTube\bin\Release\WebDriver.xml
+C:\Users\C\Desktop\YouTube\YouTube\bin\Release\WebDriver.Support.xml
+C:\Users\C\Desktop\YouTube\YouTube\obj\Release\YouTube.Form1.resources
+C:\Users\C\Desktop\YouTube\YouTube\obj\Release\YouTube.Properties.Resources.resources
+C:\Users\C\Desktop\YouTube\YouTube\obj\Release\YouTube.csproj.GenerateResource.Cache
+C:\Users\C\Desktop\YouTube\YouTube\obj\Release\YouTube.exe
+C:\Users\C\Desktop\YouTube\YouTube\obj\Release\YouTube.pdb
+C:\Users\C\Desktop\YouTube\YouTube\obj\Release\YouTube.csprojResolveAssemblyReference.cache
